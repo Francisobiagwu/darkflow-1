@@ -1,3 +1,9 @@
-download weights from the yolo website
-create a bin folder and add the weight 
-then run the software
+1. Download Darkflow
+2. Install darkflow using pip3 install e . (if you use pip install e. it won't work for python3)
+3. download the VOC dataset
+4. Download the Pascal VOC dataset:
+curl -O https://pjreddie.com/media/files/VOCtest_06-Nov-2007.tar
+tar xf VOCtest_06-Nov-2007.tar
+5. download weights from the yolo website
+6. create a bin folder and add the weight 
+7. then run the software
